@@ -17,12 +17,16 @@ code {
   margin: 20px;
 }
 
-img[src="/static/media/iconArt-icon.9429b936.png"] {
-  background: gray;
+img {
+  object-fit: contain;
 }
 
-img[src="/static/media/Main_Photo.ed52f126.jpg"] {
+.r-card:nth-of-type(2) .r-card-image {
   object-fit: cover;
+}
+
+.r-card:nth-of-type(3) .r-card-image {
+  background: gray;
 }
 
 .r-card-image {
@@ -30,7 +34,6 @@ img[src="/static/media/Main_Photo.ed52f126.jpg"] {
   width: 300px;
   height: 480px;
   box-shadow: 0px 0px 3px 1px #ccc;
-  object-fit: contain;
 }
 
 .r-card-info {
