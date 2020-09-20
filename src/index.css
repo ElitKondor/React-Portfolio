@@ -11,3 +11,63 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.r-card {
+  margin: 20px;
+}
+
+img[src="/static/media/iconArt-icon.9429b936.png"] {
+  background: gray;
+}
+
+img[src="/static/media/Main_Photo.ed52f126.jpg"] {
+  object-fit: cover;
+}
+
+.r-card-image {
+  border-radius: 10px;
+  width: 300px;
+  height: 480px;
+  box-shadow: 0px 0px 3px 1px #ccc;
+  object-fit: contain;
+}
+
+.r-card-info {
+  margin-top: 10px;
+  min-height: 100px;
+}
+
+.r-card-title {
+  font-size: 24px;
+  margin: 0;
+}
+
+.r-card-sub-title {
+  font-size: 16px;
+  margin: 0;
+}
+
+.success-msg {
+  color: #57A773;
+  padding: 10px 15px;
+}
+
+.err-msg {
+  color: #EE6352;
+  padding: 10px 15px;
+}
+
+.jumbotron h1 {
+  font-size: calc(60px + 36 * ((100vw - 320px) / (1900 - 320)))
+}
+
+.jumbotron h3 {
+  font-size: calc(48px + 8 * ((100vw - 320px) / (1900 - 320)));
+}
+
+.link-img {
+  height: 110px;
+  width: 110px;
+  border-radius: 100%;
+}
