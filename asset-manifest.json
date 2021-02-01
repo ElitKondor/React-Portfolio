@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.aecfe49a.chunk.css",
-    "main.js": "/home/static/js/main.e07644f8.chunk.js",
-    "main.js.map": "/home/static/js/main.e07644f8.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.678fc873.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.678fc873.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/home/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.2502b9b4.chunk.js": "/home/static/js/2.2502b9b4.chunk.js",
-    "static/js/2.2502b9b4.chunk.js.map": "/home/static/js/2.2502b9b4.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.4f6f425cac784ceea806b4023fe14aa6.js": "/home/precache-manifest.4f6f425cac784ceea806b4023fe14aa6.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/home/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.aecfe49a.chunk.css.map": "/home/static/css/main.aecfe49a.chunk.css.map",
-    "static/js/2.2502b9b4.chunk.js.LICENSE.txt": "/home/static/js/2.2502b9b4.chunk.js.LICENSE.txt",
-    "static/media/Main_Photo.jpg": "/home/static/media/Main_Photo.ed52f126.jpg",
-    "static/media/facebook.svg": "/home/static/media/facebook.c509a4c4.svg",
-    "static/media/game-icon.jpg": "/home/static/media/game-icon.3befe173.jpg",
-    "static/media/iconArt-icon.png": "/home/static/media/iconArt-icon.9429b936.png",
-    "static/media/linkedin.svg": "/home/static/media/linkedin.20177402.svg",
-    "static/media/telegram.svg": "/home/static/media/telegram.a888fec0.svg"
+    "main.css": "/React-Portfolio/home/static/css/main.aecfe49a.chunk.css",
+    "main.js": "/React-Portfolio/home/static/js/main.52771fc5.chunk.js",
+    "main.js.map": "/React-Portfolio/home/static/js/main.52771fc5.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/home/static/js/runtime-main.678162e8.js",
+    "runtime-main.js.map": "/React-Portfolio/home/static/js/runtime-main.678162e8.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/React-Portfolio/home/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.2502b9b4.chunk.js": "/React-Portfolio/home/static/js/2.2502b9b4.chunk.js",
+    "static/js/2.2502b9b4.chunk.js.map": "/React-Portfolio/home/static/js/2.2502b9b4.chunk.js.map",
+    "index.html": "/React-Portfolio/home/index.html",
+    "precache-manifest.2f01b6216e891665c62ff22d8b7d4ec6.js": "/React-Portfolio/home/precache-manifest.2f01b6216e891665c62ff22d8b7d4ec6.js",
+    "service-worker.js": "/React-Portfolio/home/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/React-Portfolio/home/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.aecfe49a.chunk.css.map": "/React-Portfolio/home/static/css/main.aecfe49a.chunk.css.map",
+    "static/js/2.2502b9b4.chunk.js.LICENSE.txt": "/React-Portfolio/home/static/js/2.2502b9b4.chunk.js.LICENSE.txt",
+    "static/media/Main_Photo.jpg": "/React-Portfolio/home/static/media/Main_Photo.ed52f126.jpg",
+    "static/media/facebook.svg": "/React-Portfolio/home/static/media/facebook.c509a4c4.svg",
+    "static/media/game-icon.jpg": "/React-Portfolio/home/static/media/game-icon.3befe173.jpg",
+    "static/media/iconArt-icon.png": "/React-Portfolio/home/static/media/iconArt-icon.9429b936.png",
+    "static/media/linkedin.svg": "/React-Portfolio/home/static/media/linkedin.20177402.svg",
+    "static/media/telegram.svg": "/React-Portfolio/home/static/media/telegram.a888fec0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.678fc873.js",
+    "static/js/runtime-main.678162e8.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.2502b9b4.chunk.js",
     "static/css/main.aecfe49a.chunk.css",
-    "static/js/main.e07644f8.chunk.js"
+    "static/js/main.52771fc5.chunk.js"
   ]
 }
