@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.aecfe49a.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.cdc21100.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.cdc21100.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.875c875f.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.875c875f.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/React-Portfolio/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.2502b9b4.chunk.js": "/React-Portfolio/static/js/2.2502b9b4.chunk.js",
-    "static/js/2.2502b9b4.chunk.js.map": "/React-Portfolio/static/js/2.2502b9b4.chunk.js.map",
-    "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.7c39e70edc681b34b1470942859b5cb9.js": "/React-Portfolio/precache-manifest.7c39e70edc681b34b1470942859b5cb9.js",
-    "service-worker.js": "/React-Portfolio/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/React-Portfolio/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.aecfe49a.chunk.css.map": "/React-Portfolio/static/css/main.aecfe49a.chunk.css.map",
-    "static/js/2.2502b9b4.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.2502b9b4.chunk.js.LICENSE.txt",
-    "static/media/Main_Photo.jpg": "/React-Portfolio/static/media/Main_Photo.ed52f126.jpg",
-    "static/media/facebook.svg": "/React-Portfolio/static/media/facebook.c509a4c4.svg",
-    "static/media/game-icon.jpg": "/React-Portfolio/static/media/game-icon.3befe173.jpg",
-    "static/media/iconArt-icon.png": "/React-Portfolio/static/media/iconArt-icon.9429b936.png",
-    "static/media/linkedin.svg": "/React-Portfolio/static/media/linkedin.20177402.svg",
-    "static/media/telegram.svg": "/React-Portfolio/static/media/telegram.a888fec0.svg"
+    "main.css": "/home/static/css/main.aecfe49a.chunk.css",
+    "main.js": "/home/static/js/main.e07644f8.chunk.js",
+    "main.js.map": "/home/static/js/main.e07644f8.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.678fc873.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.678fc873.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/home/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.2502b9b4.chunk.js": "/home/static/js/2.2502b9b4.chunk.js",
+    "static/js/2.2502b9b4.chunk.js.map": "/home/static/js/2.2502b9b4.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.4f6f425cac784ceea806b4023fe14aa6.js": "/home/precache-manifest.4f6f425cac784ceea806b4023fe14aa6.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/home/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.aecfe49a.chunk.css.map": "/home/static/css/main.aecfe49a.chunk.css.map",
+    "static/js/2.2502b9b4.chunk.js.LICENSE.txt": "/home/static/js/2.2502b9b4.chunk.js.LICENSE.txt",
+    "static/media/Main_Photo.jpg": "/home/static/media/Main_Photo.ed52f126.jpg",
+    "static/media/facebook.svg": "/home/static/media/facebook.c509a4c4.svg",
+    "static/media/game-icon.jpg": "/home/static/media/game-icon.3befe173.jpg",
+    "static/media/iconArt-icon.png": "/home/static/media/iconArt-icon.9429b936.png",
+    "static/media/linkedin.svg": "/home/static/media/linkedin.20177402.svg",
+    "static/media/telegram.svg": "/home/static/media/telegram.a888fec0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.875c875f.js",
+    "static/js/runtime-main.678fc873.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.2502b9b4.chunk.js",
     "static/css/main.aecfe49a.chunk.css",
-    "static/js/main.cdc21100.chunk.js"
+    "static/js/main.e07644f8.chunk.js"
   ]
 }
